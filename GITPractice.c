@@ -5,8 +5,7 @@ int main() {
 	int a = 2;
 	printf("Hello World! %d", a);
 	int b  = 3;
-	printf(" git update");	
-	printf(" and the next number is %d", b);
+	printf(" Nathan is good at school %d", b);
 	return(0);
 }
 
